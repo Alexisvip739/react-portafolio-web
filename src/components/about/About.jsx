@@ -40,9 +40,9 @@ const About = () => {
             </div>
 
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem unde hic fugit quibusdam 
-              dolorem delectus repudiandae laborum vitae blanditiis, 
-              vel, dolores commodi aperiam quo officiis soluta. Sit eveniet quidem voluptatum?
+              I am a software engineer from Zacatecas Mexico. and I have been designing several websites where 
+              I have developed more as an engineer. I like help convert a vision and an idea into meanigful and useful 
+              products of software.
             </p>
             <a href="" className='btn btn-primary'>Let's Talk</a>
          </div>

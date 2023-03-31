@@ -1,11 +1,11 @@
 import React from 'react'
 import './porfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
-import IMG4 from '../../assets/portfolio4.jpg';
-import IMG5 from '../../assets/portfolio5.png';
-import IMG6 from '../../assets/portfolio6.jpg';
+import IMG1 from '../../assets/plant-web.webp';
+import IMG2 from '../../assets/coffie-web.webp';
+import IMG3 from '../../assets/dishes.webp';
+import IMG4 from '../../assets/travel.webp';
+import IMG5 from '../../assets/chat-web.webp';
+
 
 
 
@@ -27,31 +27,25 @@ const data=[
   {
     id:3,
     image:IMG3,
-    title: 'Test',
+    title: 'Web Dishes',
     github:'https//:github.com',
     demo: ''
   },
   {
     id:4,
     image:IMG4,
-    title: 'Test',
+    title: 'Web Travels',
     github:'https//:github.com',
     demo: ''
   },
   {
     id:5,
     image:IMG5,
-    title: 'Test',
+    title: 'Web Chat',
     github:'https//:github.com',
     demo: ''
   },
-  {
-    id:6,
-    image:IMG6,
-    title: 'Test',
-    github:'https//:github.com',
-    demo: ''
-  },
+ 
 ]
 function Porfolio() {
   return (
@@ -69,8 +63,8 @@ function Porfolio() {
               <h3>{title}</h3>
   
               <div className='porftolio__item-cta'>
-                <a href={gituhub} className='btn'>Github</a>
-                <a href={demo} className='btn btn-primary'>Live Web</a>
+                <a href={gituhub} target="_blank" className='btn'>Github</a>
+                <a href={demo} target="_blank" className='btn btn-primary'>Live Web</a>
   
               </div>
               

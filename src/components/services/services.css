@@ -37,12 +37,16 @@
     display: flex;
     gap:1rem;
     margin-bottom: 0.8rem;
+    justify-content: start;
+    align-items: start;
 }
 
 .service__list-icon{
     color: var(--color-primary);
     margin-top: 2px;
-
+    width: 30px;
+  
+    
 }
 .service__list p{
     font-size: 0.9rem;

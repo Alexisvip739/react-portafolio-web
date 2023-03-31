@@ -14,38 +14,33 @@ function Services() {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Knowledge in Figma</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Knowledge in front-end as back-end</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Knowledge of effects designs and animations</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Knowledge of user experience design</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Responsive Designs</p>
             </li>
-
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>create compelling and coherent visual designs</p>
             </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
-            </li>
+           
           </ul>
         </article>
 
@@ -57,37 +52,42 @@ function Services() {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Create and test applications for websites</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Troubleshoot website</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Maintain and update the website</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Create website prototypes</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Knowledge in Frameworks and library</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>version control system (git,github)</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Knowledge of HTTPS, SSL, Cyber Security</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Knowledge in consumption of apis</p>
             </li>
           </ul>
         </article>
@@ -100,38 +100,30 @@ function Services() {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Used of Adobe xd</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Work in a team and communicate effectivel</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Excellent writing</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Graphic design</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
+              <p>Comunicación y colaboración</p>
             </li>
 
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem, input dolor sit aunt consecterun elit</p>
-            </li>
+           
           </ul>
         </article>
       </div>
