@@ -3,8 +3,8 @@ import './porfolio.css'
 import IMG1 from '../../assets/plant-web.webp';
 import IMG2 from '../../assets/coffie-web.webp';
 import IMG3 from '../../assets/dishes.webp';
-import IMG4 from '../../assets/travel.webp';
-import IMG5 from '../../assets/chat-web.webp';
+import IMG4 from '../../assets/movies-react.webp';
+
 
 
 
@@ -21,31 +21,24 @@ const data=[
     id:2,
     image:IMG2,
     title: 'Web Coffe',
-    github:'https//:github.comAlexisvip739/coffie-web',
+    github:'https//github.com/Alexisvip739/coffie-web',
     demo: 'https://coffesiteweb100a.000webhostapp.com/'
   },
   {
     id:3,
     image:IMG3,
     title: 'Web Dishes',
-    github:'https//:github.com',
-    demo: ''
+    github:'https://github.com/Alexisvip739/Dishes-Website',
+    demo: 'https://webdishes.000webhostapp.com/'
   },
   {
     id:4,
     image:IMG4,
-    title: 'Web Travels',
-    github:'https//:github.com',
-    demo: ''
+    title: 'Movies Web',
+    github:'https://github.com/Alexisvip739/movies-react-app',
+    demo: 'https://moviestmdb.000webhostapp.com/'
   },
-  {
-    id:5,
-    image:IMG5,
-    title: 'Web Chat',
-    github:'https//:github.com',
-    demo: ''
-  },
- 
+
 ]
 function Porfolio() {
   return (
@@ -54,7 +47,7 @@ function Porfolio() {
       <h2>Porfolio</h2>
       <div className='container portfolio__container'>
         {
-          data.map(({id,image,title,gituhub,demo}) => {
+          data.map(({id,image,title,github,demo}) => {
             return (
               <article key={id} className='portfolio__item'>
                 <div className='portfolio__item-image'>
@@ -63,7 +56,7 @@ function Porfolio() {
               <h3>{title}</h3>
   
               <div className='porftolio__item-cta'>
-                <a href={gituhub} target="_blank" className='btn'>Github</a>
+                <a href={github} target="_blank" className='btn'>Github</a>
                 <a href={demo} target="_blank" className='btn btn-primary'>Live Web</a>
   
               </div>
@@ -71,8 +64,7 @@ function Porfolio() {
             </article>
             )
             })
-        }
-        
+        }    
       </div>
     </section>
   )
