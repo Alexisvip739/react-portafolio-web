@@ -120,7 +120,7 @@ function Services() {
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Comunicación y colaboración</p>
+              <p>Communication and collaboration</p>
             </li>
 
            

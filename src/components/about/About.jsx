@@ -44,7 +44,6 @@ const About = () => {
               I have developed more as an engineer. I like help convert a vision and an idea into meanigful and useful 
               products of software.
             </p>
-            <a href="" className='btn btn-primary'>Let's Talk</a>
          </div>
       </div>
       

@@ -4,8 +4,8 @@ import IMG1 from '../../assets/plant-web.webp';
 import IMG2 from '../../assets/coffie-web.webp';
 import IMG3 from '../../assets/dishes.webp';
 import IMG4 from '../../assets/movies-react.webp';
-
-
+import IMG5 from '../../assets/ravengate_solution.webp'
+import IMG6 from '../../assets/Todo.png';
 
 
 
@@ -38,6 +38,21 @@ const data=[
     github:'https://github.com/Alexisvip739/movies-react-app',
     demo: 'https://moviestmdb.000webhostapp.com/'
   },
+  {
+    id:5,
+    image: IMG5,
+    title:'Ravengate Solution',
+    github:'https://github.com/Alexisvip739/Ravenger-Solution',
+    demo:'https://ravenger-solution.netlify.app/'
+  },
+  {
+    id:6,
+    image:IMG6,
+    title: 'Todo App',
+    github:'https://github.com/Alexisvip739/TodoApp.git',
+    demo:'https://alexisvip739.github.io/TodoApp/'
+
+  }
 
 ]
 function Porfolio() {

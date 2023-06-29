@@ -4,8 +4,10 @@ import {AiOutlineHome} from 'react-icons/ai';
 import {AiOutlineUser} from 'react-icons/ai'
 import {BiBook} from 'react-icons/bi'
 import {RiServiceLine} from 'react-icons/ri'
+import {BsFillFileEarmarkFill} from 'react-icons/bs';
 import {BiMessageSquareDots} from 'react-icons/bi';
 import { useState } from 'react';
+
 function Nav() {
   const [activeNav,setActiveNav]= useState('#')
   return (
@@ -13,8 +15,9 @@ function Nav() {
     <nav>
       <a href="" className={activeNav==='#' ? 'active': ""}><AiOutlineHome/></a>
       <a href="#about" onClick={()=> setActiveNav('#about')}  className={activeNav==='#about' ? 'active': "" }><AiOutlineUser/></a>
-      <a href="#experiences" onClick={()=> setActiveNav('#experiences')}  className={activeNav==='#experiences' ? 'active': "" }><BiBook/></a>
+      <a href="#experience" onClick={()=> setActiveNav('#experience')}  className={activeNav==='#experience' ? 'active': "" }><BiBook/></a>
       <a href="#services" onClick={()=> setActiveNav('#services')}  className={activeNav==='#services' ? 'active': "" }><RiServiceLine/></a>
+      <a href="#portfolio" onClick={()=> setActiveNav('#portfolio')}  className={activeNav==='#portfolio' ? 'active': "" }><BsFillFileEarmarkFill/></a>
       <a href="#contact"  onClick={()=> setActiveNav('#contact')}  className={activeNav==='#contact' ? 'active': "" }><BiMessageSquareDots/></a>
     </nav>
   )
