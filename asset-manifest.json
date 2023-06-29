@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-porfolio-web/static/css/main.d0891dd0.css",
+    "main.js": "/react-porfolio-web/static/js/main.3bc9d4e2.js",
+    "static/media/Todo.png": "/react-porfolio-web/static/media/Todo.96d4a36df0dbc5a75cb0.png",
+    "static/media/photo.png": "/react-porfolio-web/static/media/photo.04e47d3a6afad7c69033.png",
+    "static/media/dishes.webp": "/react-porfolio-web/static/media/dishes.07e13a0ac92c86d16f1c.webp",
+    "static/media/ravengate_solution.webp": "/react-porfolio-web/static/media/ravengate_solution.1c03097affe8606d08ef.webp",
+    "static/media/me-about.jpeg": "/react-porfolio-web/static/media/me-about.1ba438559f2ea03c0be4.jpeg",
+    "static/media/plant-web.webp": "/react-porfolio-web/static/media/plant-web.a74f4abd0302df5ff3c8.webp",
+    "static/media/movies-react.webp": "/react-porfolio-web/static/media/movies-react.fb37376c436ecc7d92cc.webp",
+    "static/media/coffie-web.webp": "/react-porfolio-web/static/media/coffie-web.94a48997763f420735d9.webp",
+    "static/media/Alexis_Ultreras_Sotelo.pdf": "/react-porfolio-web/static/media/Alexis_Ultreras_Sotelo.38a70ea43e4cd06f0e7f.pdf",
+    "index.html": "/react-porfolio-web/index.html",
+    "main.d0891dd0.css.map": "/react-porfolio-web/static/css/main.d0891dd0.css.map",
+    "main.3bc9d4e2.js.map": "/react-porfolio-web/static/js/main.3bc9d4e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0891dd0.css",
+    "static/js/main.3bc9d4e2.js"
+  ]
+}
