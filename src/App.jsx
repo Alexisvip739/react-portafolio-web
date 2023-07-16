@@ -18,7 +18,7 @@ export const App = () => {
        <Services/>
        <Porfolio/>
        <Contact/>
-       <Footer/>
+       
  
       </>
   )
