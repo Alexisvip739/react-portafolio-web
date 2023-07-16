@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portafolio-web/static/css/main.d0891dd0.css",
-    "main.js": "/react-portafolio-web/static/js/main.23302b0e.js",
+    "main.js": "/react-portafolio-web/static/js/main.1a5e0d56.js",
     "static/media/Todo.png": "/react-portafolio-web/static/media/Todo.96d4a36df0dbc5a75cb0.png",
     "static/media/photo.png": "/react-portafolio-web/static/media/photo.04e47d3a6afad7c69033.png",
     "static/media/dishes.webp": "/react-portafolio-web/static/media/dishes.07e13a0ac92c86d16f1c.webp",
@@ -14,10 +14,10 @@
     "static/media/Alexis_Ultreras_Sotelo.pdf": "/react-portafolio-web/static/media/Alexis_Ultreras_Sotelo.38a70ea43e4cd06f0e7f.pdf",
     "index.html": "/react-portafolio-web/index.html",
     "main.d0891dd0.css.map": "/react-portafolio-web/static/css/main.d0891dd0.css.map",
-    "main.23302b0e.js.map": "/react-portafolio-web/static/js/main.23302b0e.js.map"
+    "main.1a5e0d56.js.map": "/react-portafolio-web/static/js/main.1a5e0d56.js.map"
   },
   "entrypoints": [
     "static/css/main.d0891dd0.css",
-    "static/js/main.23302b0e.js"
+    "static/js/main.1a5e0d56.js"
   ]
 }
