@@ -6,7 +6,7 @@ import IMG3 from '../../assets/dishes.webp';
 import IMG4 from '../../assets/movies-react.webp';
 import IMG5 from '../../assets/ravengate_solution.webp'
 import IMG6 from '../../assets/Todo.png';
-
+import IMG7 from '../../assets/ecommerse.webp';
 
 
 const data=[
@@ -52,9 +52,19 @@ const data=[
     github:'https://github.com/Alexisvip739/TodoApp.git',
     demo:'https://alexisvip739.github.io/TodoApp/'
 
+  },
+  {
+    id:7,
+    image: IMG7,
+    title:'Ecommerse Api',
+    github:'https://github.com/Alexisvip739/React-api-store',
+    demo:'https://alexisvip739.github.io/React-api-store/'
   }
 
+
 ]
+
+
 function Porfolio() {
   return (
     <section id='portfolio'>
