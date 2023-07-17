@@ -63,8 +63,6 @@ const data=[
 
 
 ]
-
-
 function Porfolio() {
   return (
     <section id='portfolio'>

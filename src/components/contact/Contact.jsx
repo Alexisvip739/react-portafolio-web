@@ -25,7 +25,7 @@ const data =[
     description:'Whatsapp',
     icon:<BsWhatsapp/>,
     name:'4949495833',
-    url:'https://api.whatsapp.com/send?phone4949495833'  
+    url: 'https://api.whatsapp.com/send?phone=4949495833'
   },
 ]
 function Contact() {
@@ -34,9 +34,9 @@ function Contact() {
 
   const sendEmail=(e)=>{
     e.preventDefault();
-    emailjs.sendForm('service_6y9toc8','template_isngjci',form.current,'33wcHTTZgKDXIRLIS')
+    emailjs.sendForm('service_cymoa54','template_20yklpk',form.current,'TlnwodyDA1sw4tvI2')
     e.target.reset()
-    console.log(e)
+    alert('Message sent')
   }
   
   return (
