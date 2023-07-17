@@ -36,7 +36,7 @@ const data=[
     image:IMG4,
     title: 'Movies Web',
     github:'https://github.com/Alexisvip739/movies-react-app',
-    demo: 'https://moviestmdb.000webhostapp.com/'
+    demo: 'https://alexisvip739.github.io/movies-react-app/'
   },
   {
     id:5,

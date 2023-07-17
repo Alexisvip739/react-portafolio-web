@@ -11,7 +11,7 @@ const data =[
     description:'Email',
     icon:<MdOutlineEmail/>,
     name:'alexisultreras01@gmail.com',
-    url:'mailto:alexisultrerass@gmail.com'  
+    url:'mailto:alexisultreras01@gmail.com'  
   },
   {
     id:2,
