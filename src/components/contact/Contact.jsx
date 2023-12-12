@@ -24,8 +24,8 @@ const data =[
     id:3,
     description:'Whatsapp',
     icon:<BsWhatsapp/>,
-    name:'4949495833',
-    url: 'https://api.whatsapp.com/send?phone=4949495833'
+    name:'+52 494 949 5833',
+    url: 'https://api.whatsapp.com/send?phone=524949495833'
   },
 ]
 function Contact() {
